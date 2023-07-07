@@ -142,21 +142,21 @@ a {
 
 .princ {
   position: absolute;
-  background-color: #000;
+  background-color: #12102b;
   color: #fff;
   border-radius: 50%;
-  width: 25%;
-  height: 48%;
+  width: 100px;
+  height: 100px;
   border: solid #fff 2px;
   margin-top: 18%;
   margin-left: 6.25%;
   cursor: pointer;
   font-family: Arial, Helvetica, sans-serif;
-  font-weight: bold;
-  font-size: 20px;
+  font-weight: bolder;
+  font-size: 56px;
   justify-content: center;
   text-align: center;
-  line-height: 180px;
+  line-height: 105px;
   transition: all 1s;
   box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 26px 23px 86px -24px rgba(0, 0, 0, 0.75);
@@ -599,11 +599,9 @@ a {
 }
 
 .btn1 {
-  background-image: url("circ-01.jpg");
-  background-size: 214px 242px;
   transition: all 0.5s;
-  margin-top: 38px;
-  margin-left: 1px;
+  margin-top: 66px;
+  margin-left: 89px;
 }
 
 .btn1:hover {
@@ -612,11 +610,9 @@ a {
 }
 
 .btn2 {
-  background-image: url("circ-02.jpg");
-  background-size: 321px 242px;
   transition: all 0.5s;
-  margin-top: 165px;
-  margin-left: -86px;
+  margin-top: 274px;
+  margin-left: -26px;
 }
 
 .btn2:hover {
@@ -625,13 +621,9 @@ a {
 }
 
 .btn3 {
-  background-image: url("circ-03.jpg");
-  background-size: 292px 242px;
   transition: all 0.5s;
-  line-height: 22px;
-  padding-top: 66px;
-  margin-top: 165px;
-  margin-left: 80px;
+  margin-top: 274px;
+  margin-left: 207px;
 }
 
 .btn3:hover {
