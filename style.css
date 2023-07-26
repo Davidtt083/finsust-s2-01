@@ -67,7 +67,7 @@ a {
 .bgcontenedor {
   display: flex;
   background-position: center;
-  background-size: 102% 89%;
+  background-size: 100% 100%;
   background-repeat: no-repeat;
   max-width: 100%;
   background-image: url("bg-index.png");
@@ -600,7 +600,7 @@ a {
 
 .btn1 {
   transition: all 0.5s;
-  margin-top: 66px;
+  margin-top: 56px;
   margin-left: 89px;
 }
 
@@ -611,7 +611,7 @@ a {
 
 .btn2 {
   transition: all 0.5s;
-  margin-top: 274px;
+  margin-top: 300px;
   margin-left: -26px;
 }
 
@@ -622,7 +622,7 @@ a {
 
 .btn3 {
   transition: all 0.5s;
-  margin-top: 274px;
+  margin-top: 300px;
   margin-left: 207px;
 }
 
